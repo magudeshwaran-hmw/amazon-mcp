@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+      "amazon-search": {
+        "command": "python",
+        "args": ["C:\\Users\\Magudesh\\Desktop\\mcp\\mcp2\\mcp_amazon_server.py"],
+        "cwd": "C:\\Users\\Magudesh\\Desktop\\mcp\\mcp2"
+      }
+    }
+  }
